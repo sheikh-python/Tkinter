@@ -1,0 +1,4 @@
+python==3.12.0
+tkinter==latest
+ttk==latest
+message-box==latest
